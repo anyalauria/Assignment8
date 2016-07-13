@@ -1,0 +1,5 @@
+1. It CAN CRASH. Would it print the integers? I'm not sure. They're incorrectly stored in a char array 
+2. 8 bytes?
+3. Line 29
+4. free(q); (I feel like this is incorrect?) 
+
